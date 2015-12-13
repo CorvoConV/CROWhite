@@ -1,2 +1,2 @@
 # CROWhite
-Archivos del diseño, materiales y firmware de la CROWhite, una impresora 3D OpenSource diseñada por CorvoConV
+Archivos del diseño, materiales y firmware de la CROWhite, una impresora 3D OpenSource diseñada por CorvoConV. Aqui encontrareis los archivos de SolidWorks con el diseño original de la impresora, El firmware tal y como lo tengo cargado en mi propia impresora y que iré actualizando con cada cambio que realice y una lista de materiales con el presupuesto aproximado de la impresora así como con enlaces a tiendas donde comprar los materiales.
