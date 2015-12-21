@@ -1,0 +1,68 @@
+*****************************************************************
+      SolidWorks Corporation - Informe de estado del procesador de IGES
+*****************************************************************
+=================================================================
+Información general
+=================================================================
+Enviando I.D. de producto de sistema  : RECREUS EXTRUDER 2014
+Recibiendo I.D. de producto de sistema: RECREUS EXTRUDER 2014
+Nombre de archivo                    : \\WDMYCLOUDEX4\Public\recreus admin\RECURSOS RECREUS 2015\RECREUS EXTRUDER\RECREUS EXTRUDER 2014.IGS
+Enviando sistema               : SolidWorks 2012
+Versión de preprocesador         : SolidWorks 2012
+Fecha de creación del archivo           : 150325.182953
+Fecha de creación del modelo          : 150325.182953
+Unidades                        : MM
+Escala espacial del modelo            : 1
+Autor                       : mu10
+Organización                 : 
+
+
+=================================================================
+Información de procesamiento de entidades
+=================================================================
+
+
+=================================================================
+Análisis de precisión del archivo de IGES:
+=================================================================
+  Número de dígitos significativos más frecuente:               2
+  Número de dígitos significativos más alto:                      5
+  Número de dígitos significativos promedio:                2.48485
+  Distancia máxima hasta el origen:                          944.045
+  Distancia mínima hasta el origen:                          56.4082
+  Número de dígitos significativos efectivo:              4.94804
+
+
+=================================================================
+Resumen de entidades
+=================================================================
+-----------------------------------------------------------------
+Nombre de tipo                                         Número convertido
+---- ----                                         ----- ---------
+100  Arc                                           2214      2214
+102  Composite curve                               2836      2836
+110  Line                                          3502      3502
+120  Surface of revolution                          679       679
+124  Transformation matrix                         1784      1784
+126  Rational B-spline curve                       9692      9692
+128  Rational B-spline surface                      629       629
+142  Curve on a parametric surface                 1418      1418
+144  Trimmed parametric surface                    1308      1308
+308  Subfigure definition                            19        19
+314  Color definition                                58        58
+408  Singular subfigure instance                     22        22
+_________________________________________________________________
+
+
+=================================================================
+Resumen de resultados
+=================================================================
+Tipo de operación de SolidWorks                Número
+-----------------------                -----
+Operaciones sólidas19
+Operaciones de superficie0
+Operaciones de curvas/croquis0
+--------------------------------------------
+Hora de comienzo: martes, junio 09, 2015 20:49:46
+Hora de finalización: martes, junio 09, 2015 20:50:17
+Tiempo de procesamiento: 0 days, 00 hours, 00 mins, 31 secs
